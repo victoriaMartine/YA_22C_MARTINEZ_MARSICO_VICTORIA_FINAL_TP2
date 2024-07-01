@@ -1,0 +1,17 @@
+[
+	{
+		"id": 1,
+		"temperatura": 50,
+		"fechaRecepcion": "2024-07-01T23:22:43.567Z"
+	},
+	{
+		"id": 3,
+		"temperatura": 50,
+		"fechaRecepcion": "2024-07-01T23:23:13.588Z"
+	},
+	{
+		"id": 1,
+		"temperatura": 40,
+		"fechaRecepcion": "2024-07-01T23:25:24.526Z"
+	}
+]
